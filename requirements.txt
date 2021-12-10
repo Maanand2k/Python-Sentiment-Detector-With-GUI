@@ -1,0 +1,5 @@
+pip install Tkinter
+
+pip install vaderSentiment
+ 
+**need to be intalled for using the project
